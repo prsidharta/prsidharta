@@ -8,7 +8,7 @@ I am a Computer Science student at the University of South Florida with interest
 
 ### 🛠️ Tools
 **Languages:** C++, C, Python, HTML/CSS  
-**Infrastructure & Libraries:** AWS, Docker, Linux
+**Infrastructure & Libraries:** AWS, Docker, Linux, PostgreSQL, gRPC
 
 ### 🏂 When I'm not programming I like to do
 - 🏹 Archery
