@@ -8,7 +8,7 @@ I am a Computer Science student at the University of South Florida with interest
 - Further my understanding of computer vision and integrating that with backend architecture.
 
 ### 🛠️ Tools
-**Languages:** C++, C, Python, HTML/CSS  
+**Languages:** C++, C, C#, Python, HTML, CSS, JavaScript, TypeScript, SQL
 **Infrastructure & Libraries:** AWS, Docker, Linux, PostgreSQL, protobuf, gRPC
 
 ### 🏂 When I'm not programming, I like to do
