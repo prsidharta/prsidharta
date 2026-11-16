@@ -1,6 +1,6 @@
 # Hi, I'm Patrick 👋
 
-I am a Computer Science student at the University of South Florida with interests in cloud infrastructure and backend systems.
+I am a Computer Science student at the University of South Florida.
 
 ### 🎯 Goals
 - Improving my foundation in backend engineering and distributed systems.
